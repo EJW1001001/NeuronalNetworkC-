@@ -1,0 +1,10 @@
+^C:\USERS\EMMAJ\ONEDRIVE\ESCRITORIO\NEURALNET\BUILD\CMAKEFILES\8918F1C4846BA8E1D71D53B519006E69\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/emmaj/OneDrive/Escritorio/NeuralNet -BC:/Users/emmaj/OneDrive/Escritorio/NeuralNet/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/emmaj/OneDrive/Escritorio/NeuralNet/build/NeuralNet.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

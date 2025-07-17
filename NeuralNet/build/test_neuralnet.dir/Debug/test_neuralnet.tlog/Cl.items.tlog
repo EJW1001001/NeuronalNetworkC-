@@ -1,0 +1,7 @@
+C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\tests\test_neuralnet.cpp;C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\build\test_neuralnet.dir\Debug\test_neuralnet.obj
+C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\src\Neuron.cpp;C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\build\test_neuralnet.dir\Debug\Neuron.obj
+C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\src\Layer.cpp;C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\build\test_neuralnet.dir\Debug\Layer.obj
+C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\src\Activations.cpp;C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\build\test_neuralnet.dir\Debug\Activations.obj
+C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\src\LossFunctions.cpp;C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\build\test_neuralnet.dir\Debug\LossFunctions.obj
+C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\src\Optimizers.cpp;C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\build\test_neuralnet.dir\Debug\Optimizers.obj
+C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\src\Model.cpp;C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\build\test_neuralnet.dir\Debug\Model.obj

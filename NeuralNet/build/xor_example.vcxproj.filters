@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\examples\xor_example.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\src\Neuron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\src\Layer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\src\Activations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\src\LossFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\src\Optimizers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\src\Model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\include\neuralnet\Neuron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\include\neuralnet\Layer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\include\neuralnet\Activations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\include\neuralnet\LossFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\include\neuralnet\Optimizers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\include\neuralnet\Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\emmaj\OneDrive\Escritorio\NeuralNet\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{70016566-02F2-337A-A4AA-FD1B9D521B2B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BE72585E-6732-3B81-9597-19E62861AC36}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

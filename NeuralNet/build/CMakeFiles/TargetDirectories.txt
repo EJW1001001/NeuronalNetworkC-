@@ -1,0 +1,4 @@
+C:/Users/emmaj/OneDrive/Escritorio/NeuralNet/build/CMakeFiles/xor_example.dir
+C:/Users/emmaj/OneDrive/Escritorio/NeuralNet/build/CMakeFiles/test_neuralnet.dir
+C:/Users/emmaj/OneDrive/Escritorio/NeuralNet/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/emmaj/OneDrive/Escritorio/NeuralNet/build/CMakeFiles/ZERO_CHECK.dir
